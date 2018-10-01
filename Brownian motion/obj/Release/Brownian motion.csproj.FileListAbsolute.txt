@@ -1,0 +1,18 @@
+C:\Users\valentine\source\repos\Brownian motion\Brownian motion\bin\Release\Brownian motion.exe.config
+C:\Users\valentine\source\repos\Brownian motion\Brownian motion\bin\Release\Brownian motion.exe
+C:\Users\valentine\source\repos\Brownian motion\Brownian motion\bin\Release\Brownian motion.pdb
+C:\Users\valentine\source\repos\Brownian motion\Brownian motion\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\valentine\source\repos\Brownian motion\Brownian motion\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\valentine\source\repos\Brownian motion\Brownian motion\obj\Release\Brownian motion.csprojResolveAssemblyReference.cache
+C:\Users\valentine\source\repos\Brownian motion\Brownian motion\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\valentine\source\repos\Brownian motion\Brownian motion\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\valentine\source\repos\Brownian motion\Brownian motion\obj\Release\Brownian motion.csproj.ResolveComReference.cache
+C:\Users\valentine\source\repos\Brownian motion\Brownian motion\obj\Release\Brownian_motion.Form1.resources
+C:\Users\valentine\source\repos\Brownian motion\Brownian motion\obj\Release\Brownian_motion.History.resources
+C:\Users\valentine\source\repos\Brownian motion\Brownian motion\obj\Release\Brownian_motion.Properties.Resources.resources
+C:\Users\valentine\source\repos\Brownian motion\Brownian motion\obj\Release\Brownian_motion.Science.resources
+C:\Users\valentine\source\repos\Brownian motion\Brownian motion\obj\Release\Brownian_motion.SettingForm.resources
+C:\Users\valentine\source\repos\Brownian motion\Brownian motion\obj\Release\Brownian motion.csproj.GenerateResource.Cache
+C:\Users\valentine\source\repos\Brownian motion\Brownian motion\obj\Release\Brownian motion.csproj.CoreCompileInputs.cache
+C:\Users\valentine\source\repos\Brownian motion\Brownian motion\obj\Release\Brownian motion.exe
+C:\Users\valentine\source\repos\Brownian motion\Brownian motion\obj\Release\Brownian motion.pdb
